@@ -1,0 +1,15 @@
+package EXERCISE;
+
+public class escapeSequences {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("\"Wow, you have a very nice voice there.\" he said.");
+		System.out.println("She just laughed and said \'thank you\' to the stranger.");
+		System.out.println("The stranger just smiled" + " and left her alone at the table.");
+		System.out.println();
+		System.out.println("\"Wow, who is that?\" her friend asked. \nThe friend sit opposite her"+ " and smiled suspiciously.");
+
+	}
+
+}
