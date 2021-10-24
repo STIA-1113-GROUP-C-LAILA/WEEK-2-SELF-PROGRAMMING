@@ -1,0 +1,16 @@
+package EXERCISE;
+
+public class stringConcatenation {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("I presented to you some interesting facts for you" + " to think about.");
+		System.out.println();
+		System.out.println("Scotland has :" + " 421 words for snow");
+		System.out.println("The longest English words :" + " 189,819 letter long");
+		System.out.println("Octopuses lay :" + "56,000 eggs at a time");
+		
+
+	}
+
+}
